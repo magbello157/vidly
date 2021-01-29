@@ -40,3 +40,5 @@ yarn start
 This frontend application relies on the backend below:
 
 [Vidly backend by Mosh Hamedani](https://github.com/mosh-hamedani/vidly-api-node)
+
+Appreciation to @abdulbasitkay for helping in deploying the backend.
