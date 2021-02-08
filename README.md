@@ -35,6 +35,10 @@ or
 yarn start
 ```
 
+## Usage
+
+From the top menu, click on "Register" to create an account. Then go to "Login" and login with your credentials. Now you can add and delete movies from the list.
+
 ## Acknowledgments
 
 This frontend application relies on the backend below:
